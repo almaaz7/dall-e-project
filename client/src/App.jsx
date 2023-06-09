@@ -20,7 +20,7 @@ const App = () => (
       </Routes>
     </main>
     <footer
-      className="bg-neutral-100 text-center text-neutral-600 dark:bg-neutral-600 dark:text-neutral-200 lg:text-left">
+      className="bg-slate-800 text-center text-neutral-600 dark:bg-slate-800 dark:text-neutral-200 lg:text-left">
 
       <div className="bg-neutral-200 p-6 text-center dark:bg-slate-800">
         <span className='text-white'>© Error.Almaaz</span>
